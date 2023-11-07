@@ -33,6 +33,8 @@ Offboarding by Mayla
 - [ ]  Check if the offboarding document was sent and follow up as necessary
 - [ ]  Send Exit Debrief if applicable (1 week after offboarding doc)
     * Note: We only send exit debrief for long term contractors
+  - [Exit Debriefing Template - Voluntary](<https://docs.google.com/document/d/1M_IfejgbdGQonPU0bWTRCaBzIHpJdtXMTyTEYKF7amI/edit#heading=h.48koucq9bck>)
+  - [Exit Debriefing Template - Involuntary](<https://docs.google.com/document/d/1pFOPQzDR3HLarAUT6cGBVKJr1P2eP8B2Yjnf9bLkoog/edit#heading=h.48koucq9bck>)
 - [ ]  Remove to [daily updates](https://docs.google.com/spreadsheets/u/1/d/1RMuCN_N59FxNdzroMLrJoGyqkaJcpol_TiegCcRb69w/edit#gid=1434872478)
 - [ ]  Get the total working hours and process the final payment
 - [ ]  Remove to [People Directory](https://docs.google.com/spreadsheets/d/16zkC6v-kRlF_fA1vC8iW5viiz_lf2VC-gxu-u7LRNsc/edit#gid=580818018)

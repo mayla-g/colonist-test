@@ -35,7 +35,9 @@ Offboarding by Mayla
   - [Exit Debriefing Template - Voluntary](<https://docs.google.com/document/d/1M_IfejgbdGQonPU0bWTRCaBzIHpJdtXMTyTEYKF7amI/edit#heading=h.48koucq9bck>)
   - [Exit Debriefing Template - Involuntary](<https://docs.google.com/document/d/1pFOPQzDR3HLarAUT6cGBVKJr1P2eP8B2Yjnf9bLkoog/edit#heading=h.48koucq9bck>)
 
-    * Note: We only send exit debrief for long term contractors
+
+
+  _Note: We only send exit debrief for long term contractors_
 
 - [ ]  Remove to [daily updates](https://docs.google.com/spreadsheets/u/1/d/1RMuCN_N59FxNdzroMLrJoGyqkaJcpol_TiegCcRb69w/edit#gid=1434872478)
 - [ ]  Get the total working hours and process the final payment

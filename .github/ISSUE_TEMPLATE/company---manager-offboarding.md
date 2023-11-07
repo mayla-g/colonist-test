@@ -2,7 +2,7 @@
 
 Offboarding by Mayla
 
-- [ ]  Send the Offboarding email/document using the correct template:
+- [ ]  Send the `Offboarding document` using the correct template:
     
     [Colonist Offboarding - Colonist LLC](<https://docs.google.com/document/d/1C5OzSECwRpP4gi3R0YqOADpfbZdDL6i1Iq3xkRSrkqk/edit>)
 
@@ -46,9 +46,9 @@ Offboarding by Mayla
 - [ ]  Remove to [daily updates](https://docs.google.com/spreadsheets/u/1/d/1RMuCN_N59FxNdzroMLrJoGyqkaJcpol_TiegCcRb69w/edit#gid=1434872478)
 - [ ]  Get the total working hours and process the final payment
 - [ ]  Remove to [People Directory](https://docs.google.com/spreadsheets/d/16zkC6v-kRlF_fA1vC8iW5viiz_lf2VC-gxu-u7LRNsc/edit#gid=580818018)
-- [ ]  Remove to [Payroll prep](https://www.notion.so/2022-Payroll-Prep-74d6a11461b6406f846fbdded19fc241?pvs=21) or Deel
+- [ ]  Remove to [`Payroll prep`](https://www.notion.so/2022-Payroll-Prep-74d6a11461b6406f846fbdded19fc241?pvs=21) or `Deel`
 - [ ]  Remove access to any [Google drive](https://drive.google.com/drive/u/1/folders/0AIr_P5V4A0RrUk9PVA) docs
-- [ ]  Remind the manager to add PTR (post-termination review)
+- [ ]  Remind the manager to add `PTR (post-termination review)`
 - [ ]  Remove to performance review forms _(if applicable)_
 - [ ]  Send Colonist coins _(if applicable)_
     - Command format

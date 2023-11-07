@@ -42,4 +42,4 @@ Offboarding by Mayla
     /giftcolonistcoin [ozantoplu@gmail.com](mailto:ozantoplu@gmail.com) 10000 [mayla-giftcoins-](mailto:mayla-giftcoins-ekmankyle@gmail.com)[ozantoplu@gmail.com](mailto:ozantoplu@gmail.com)
     
 - [ ] Archive HR drive folder
-- [ ]   Add Post mortem
+- [ ] Remind the manager to add the Post mortem

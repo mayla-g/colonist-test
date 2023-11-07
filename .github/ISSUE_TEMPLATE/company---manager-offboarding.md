@@ -37,7 +37,7 @@ Offboarding by Mayla
 - [ ]  Remove to [People Directory](https://docs.google.com/spreadsheets/d/16zkC6v-kRlF_fA1vC8iW5viiz_lf2VC-gxu-u7LRNsc/edit#gid=580818018)
 - [ ]  Remove to [Payroll prep](https://www.notion.so/2022-Payroll-Prep-74d6a11461b6406f846fbdded19fc241?pvs=21)
 - [ ]  Remove access to any [Google drive](https://drive.google.com/drive/u/1/folders/0AIr_P5V4A0RrUk9PVA) docs
-- [ ]  Remind the manager to add the PTR (Post-termination Review)
+- [ ]  Remind the manager to add PTR (Post-termination Review)
 - [ ]  Remove to performance review forms (if applicable)
 - [ ]  Send Colonist coins (if applicable)
     - Command format

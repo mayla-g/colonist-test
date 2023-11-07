@@ -30,9 +30,9 @@ Offboarding by Mayla
       ```
         It was nice to meet you. Btw, I’ve sent you an email as part of our offboarding process. See you around!
         
-- [ ]  Check if offboarding document was not sent, follow up as necessary
+- [ ]  Check if the offboarding document was sent and follow up as necessary
 - [ ]  Send Exit Debrief if applicable (1 week after offboarding doc)
-          We only send exit debrief for long term contractors
+    * Note: We only send exit debrief for long term contractors
 - [ ]  Remove to [daily updates](https://docs.google.com/spreadsheets/u/1/d/1RMuCN_N59FxNdzroMLrJoGyqkaJcpol_TiegCcRb69w/edit#gid=1434872478)
 - [ ]  Get the total working hours and process the final payment
 - [ ]  Remove to [People Directory](https://docs.google.com/spreadsheets/d/16zkC6v-kRlF_fA1vC8iW5viiz_lf2VC-gxu-u7LRNsc/edit#gid=580818018)

@@ -15,7 +15,7 @@ Offboarding by Mayla
         - CC: jobs@colonist.io
         - Subject: Colonist Offboarding - FirstName LastName
         
-        Hello XXXX,
+        Hello [NAME],
         
         We’re sorry to see you depart from Colonist. We have disabled your accounts & access.
         

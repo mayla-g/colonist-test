@@ -46,6 +46,6 @@ Offboarding by Mayla
     - Command format
 
 
-          ```/giftcolonistcoin [email@email.com] 10000 mayla-gift-coins-email@email.com```
+          /giftcolonistcoin [email@email.com] 10000 mayla-gift-coins-email@email.com
     
 - [ ] Archive HR drive folder _(if applicable)_

@@ -10,11 +10,11 @@ Offboarding by Mayla
 
     
     - Email Template
+        ```
         - To: <applicant’s email address>
         - CC: jobs@colonist.io
         - Subject: Colonist Offboarding - FirstName LastName
-
-        ```
+        
         Hello XXXX,
         
         We’re sorry to see you depart from Colonist. We have disabled your accounts & access.

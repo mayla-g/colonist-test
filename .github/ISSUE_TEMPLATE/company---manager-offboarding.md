@@ -28,7 +28,7 @@ Offboarding by Mayla
         ```
     - Notify that the offboarding template has been sent
       ```
-        It was nice to meet you. Btw, I’ve sent you an email as part of our offboarding process. See you around!```
+        It was nice to meet you. Btw, I’ve sent you an email as part of our offboarding process. See you around!
         
 - [ ]  Check if offboarding document was not sent, follow up as necessary
 - [ ]  Send Exit Debrief if applicable (1 week after offboarding doc)

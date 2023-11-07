@@ -31,7 +31,7 @@ Offboarding by Mayla
         It was nice to meet you. Btw, I’ve sent you an email as part of our offboarding process. See you around!
         
 - [ ]  Check if the offboarding document was sent and follow up as necessary
-- [ ]  1 week after offboarding doc, send the applicable Exit Debrief form _(if applicable)_
+- [ ]  1 week after offboarding doc, send the applicable `Exit Debrief` form: _(if applicable)_
 
 
   [Exit Debriefing Template - Voluntary](<https://docs.google.com/document/d/1M_IfejgbdGQonPU0bWTRCaBzIHpJdtXMTyTEYKF7amI/edit#heading=h.48koucq9bck>)

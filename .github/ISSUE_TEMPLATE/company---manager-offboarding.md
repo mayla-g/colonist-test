@@ -44,6 +44,6 @@ Offboarding by Mayla
 - [ ]  Remove to performance review forms (if applicable)
 - [ ]  Send Colonist coins (if applicable)
     - Command format
-    /giftcolonistcoin [ozantoplu@gmail.com](mailto:ozantoplu@gmail.com) 10000 [mayla-giftcoins-](mailto:mayla-giftcoins-ekmankyle@gmail.com)[ozantoplu@gmail.com](mailto:ozantoplu@gmail.com)
+    ```/giftcolonistcoin [email@email.com] 10000 mayla-gift-coins-email@email.com```
     
 - [ ] Archive HR drive folder (if applicable)

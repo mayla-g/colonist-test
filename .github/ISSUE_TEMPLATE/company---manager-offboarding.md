@@ -5,6 +5,7 @@ Offboarding by Mayla
 - [ ]  Send the Offboarding email/document using the correct template
     
     [Colonist Offboarding - Colonist LLC](<https://docs.google.com/document/d/1C5OzSECwRpP4gi3R0YqOADpfbZdDL6i1Iq3xkRSrkqk/edit>)
+
     [Colonist Offboarding - Limitless Deus](< https://docs.google.com/document/d/1J5wMbVW3tHApOJ59WB-y38Csn6Iq6r2dzXsi6JdcVKs/edit>)
 
     

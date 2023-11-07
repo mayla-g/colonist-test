@@ -41,9 +41,9 @@ Offboarding by Mayla
 - [ ]  Remove to [Payroll prep](https://www.notion.so/2022-Payroll-Prep-74d6a11461b6406f846fbdded19fc241?pvs=21) or Deel
 - [ ]  Remove access to any [Google drive](https://drive.google.com/drive/u/1/folders/0AIr_P5V4A0RrUk9PVA) docs
 - [ ]  Remind the manager to add PTR (post-termination review)
-- [ ]  Remove to performance review forms (if applicable)
-- [ ]  Send Colonist coins (if applicable)
+- [ ]  Remove to performance review forms _(if applicable)_
+- [ ]  Send Colonist coins _(if applicable)_
     - Command format
-    ```/giftcolonistcoin [email@email.com] 10000 mayla-gift-coins-email@email.com```
+            ```/giftcolonistcoin [email@email.com] 10000 mayla-gift-coins-email@email.com```
     
-- [ ] Archive HR drive folder (if applicable)
+- [ ] Archive HR drive folder _(if applicable)_

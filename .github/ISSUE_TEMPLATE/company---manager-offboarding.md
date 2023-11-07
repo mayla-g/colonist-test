@@ -13,7 +13,7 @@ Offboarding by Mayla
         - To: <applicant’s email address>
         - CC: jobs@colonist.io
         - Subject: Colonist Offboarding - FirstName LastName
-          
+
         ```
         Hello XXXX,
         

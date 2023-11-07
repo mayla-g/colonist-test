@@ -1,11 +1,4 @@
----
-name: Company - Manager Offboarding
-about: Use this for offboarding
-title: ''
-labels: ''
-assignees: mayla-g
-
----
+## Manager Offboarding
 
 - [ ]  Send Offboarding email/document - including trials
     

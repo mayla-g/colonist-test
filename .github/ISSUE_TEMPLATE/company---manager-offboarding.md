@@ -2,7 +2,7 @@
 
 Offboarding by Mayla
 
-- [ ]  Send the Offboarding email/document using the correct template
+- [ ]  Send the Offboarding email/document using the correct template:
     
     [Colonist Offboarding - Colonist LLC](<https://docs.google.com/document/d/1C5OzSECwRpP4gi3R0YqOADpfbZdDL6i1Iq3xkRSrkqk/edit>)
 
@@ -31,9 +31,9 @@ Offboarding by Mayla
         It was nice to meet you. Btw, I’ve sent you an email as part of our offboarding process. See you around!
         
 - [ ]  Check if the offboarding document was sent and follow up as necessary
-- [ ]  Send Exit Debrief if applicable (1 week after offboarding doc)
-  - [Exit Debriefing Template - Voluntary](<https://docs.google.com/document/d/1M_IfejgbdGQonPU0bWTRCaBzIHpJdtXMTyTEYKF7amI/edit#heading=h.48koucq9bck>)
-  - [Exit Debriefing Template - Involuntary](<https://docs.google.com/document/d/1pFOPQzDR3HLarAUT6cGBVKJr1P2eP8B2Yjnf9bLkoog/edit#heading=h.48koucq9bck>)
+- [ ]  1 week after offboarding doc, send the applicable Exit Debrief form _(if applicable)_ 
+  [Exit Debriefing Template - Voluntary](<https://docs.google.com/document/d/1M_IfejgbdGQonPU0bWTRCaBzIHpJdtXMTyTEYKF7amI/edit#heading=h.48koucq9bck>)
+  [Exit Debriefing Template - Involuntary](<https://docs.google.com/document/d/1pFOPQzDR3HLarAUT6cGBVKJr1P2eP8B2Yjnf9bLkoog/edit#heading=h.48koucq9bck>)
 
 
 
